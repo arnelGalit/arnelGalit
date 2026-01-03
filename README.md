@@ -1,7 +1,8 @@
 # Hi there, I'm Arnel Galit! 👋
 
-### Computer Engineering Student 
-**Aspiring Data Analyst and Data Engineer**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;DOST-SEI+Scholar;Aspiring+Data+Engineer;Data+Enthusiast" alt="Typing SVG" />
+</a>
 
 I am a Senior Computer Engineering student at the **Polytechnic University of the Philippines**, majoring in **Big Data Analytics**. I combine a strong foundation in software development with hardware troubleshooting to solve complex data problems. 
 
