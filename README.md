@@ -1,7 +1,7 @@
 # Hi there, I'm Arnel Galit! 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3776AB&center=false&vCenter=true&width=580&x=15&lines=Computer+Engineering+Student;DOST-SEI+Scholar;Aspiring+Data+Analyst+and+Engineer;Coffeeholic;Data+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=4000&pause=700&color=5FA6F7&center=false&vCenter=true&width=580&x=15&lines=Computer+Engineering+Student;DOST-SEI+Scholar;Aspiring+Data+Analyst+and+Engineer;Coffeeholic;Data+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p>I combine a strong foundation in <b>software development</b> with <b>data analytics principles</b> to solve complex data problems. <br/> Basically, I turn coffee into code and messy data into clear insights. ☕ ➡️ 📊
