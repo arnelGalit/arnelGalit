@@ -1,4 +1,4 @@
-# Hi there, I'm Arnel Galit! 👋
+# Hi there, I'm Arnel! 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=4000&pause=700&color=5FA6F7&center=false&vCenter=true&width=580&x=15&lines=Computer+Engineering+Student;DOST-SEI+Scholar;Aspiring+Data+Analyst+and+Engineer;Coffeeholic;Data+Enthusiast" alt="Typing SVG" />
